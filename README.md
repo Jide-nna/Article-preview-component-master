@@ -1,2 +1,0 @@
-# Article preview component master
- 
